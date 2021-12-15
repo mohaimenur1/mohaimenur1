@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @mohaimenur1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+(https://drive.google.com/file/d/1tta7T9lDzcrZRctsJSSO8JHqJ2LccPI9/view?usp=sharing)
+# Mohai Menur
+I'm Mohai Menur, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in figma. I also enjoy wireframing, ui, ux, and design in general. 
 
-<!---
-mohaimenur1/mohaimenur1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
