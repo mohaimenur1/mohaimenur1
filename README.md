@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/mohaimenur1/demo/main/mmrr.gif"/>
 
 
-## Mohai Menur
+## Mohi Minur
 
 I'm Mohai Menur, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Mobile App Devlopment. I also enjoy wireframing, ui, ux, and design in general.
 
